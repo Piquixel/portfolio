@@ -1,0 +1,13 @@
+{
+	"name": "portfolio",
+	"version": "0.0.0",
+	"author": "ectho_materialist",
+	"license": "UNLICENSED",
+	"type": "commonjs",
+	"devDependencies": {
+		"eslint": "^9.39.4",
+		"neostandard": "^0.13.0",
+		"prettier": "^3.8.2",
+		"typescript": "^5.9.3"
+	}
+}
